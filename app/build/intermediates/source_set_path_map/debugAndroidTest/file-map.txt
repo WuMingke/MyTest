@@ -1,0 +1,7 @@
+com.erkuai.mytest.test.app-androidTest-0 /Users/wuqinglie/AndroidStudioProjects/MyTest/app/build/generated/res/resValues/androidTest/debug
+com.erkuai.mytest.test.app-androidTest-1 /Users/wuqinglie/AndroidStudioProjects/MyTest/app/build/generated/res/rs/androidTest/debug
+com.erkuai.mytest.test.app-mergeDebugAndroidTestResources-2 /Users/wuqinglie/AndroidStudioProjects/MyTest/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.erkuai.mytest.test.app-mergeDebugAndroidTestResources-3 /Users/wuqinglie/AndroidStudioProjects/MyTest/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.erkuai.mytest.test.app-merged_res-4 /Users/wuqinglie/AndroidStudioProjects/MyTest/app/build/intermediates/merged_res/debugAndroidTest
+com.erkuai.mytest.test.app-androidTest-5 /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/androidTest/res
+com.erkuai.mytest.test.app-androidTestDebug-6 /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/androidTestDebug/res

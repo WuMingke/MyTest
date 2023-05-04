@@ -1,0 +1,243 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/wuqinglie/.gradle/caches/transforms-3/92c50372c3eae18abcdb00a73dbca5db/transformed/core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.5.0] /Users/wuqinglie/.gradle/caches/transforms-3/d4d8b95219a147a25dc785a18deca569/transformed/material-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/wuqinglie/.gradle/caches/transforms-3/eae25c07e3d13f439144d1aff810afd5/transformed/constraintlayout-2.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/wuqinglie/.gradle/caches/transforms-3/4045a86638aaec384657086060986a71/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/4b08207ca8df5f99cbaf7f1c54e6aab0/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/wuqinglie/.gradle/caches/transforms-3/78187c6f9e5863052657c9281f90e89d/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/wuqinglie/.gradle/caches/transforms-3/cfbee81b8bccecf4ef52ee115b4e7b09/transformed/activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/wuqinglie/.gradle/caches/transforms-3/3d339fbe1e33da61bbb6cfbf32f95ee6/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/ff8403a2f736d701f1c9437b5a402e32/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/c2c9d685a6ff68a57adb1239d339362d/transformed/emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/wuqinglie/.gradle/caches/transforms-3/5df575c9a80f847105a23d71edbe3e98/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/wuqinglie/.gradle/caches/transforms-3/2d2568dc35e10f213b8edf2d42660223/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/88212c3384ca43ef98e9f8ec9e59bc86/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/wuqinglie/.gradle/caches/transforms-3/e0dc6fbfab1cf56f78d58a653725c3f9/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/wuqinglie/.gradle/caches/transforms-3/aa301d9b3d9d57da55a25b5eaa4c0b78/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/wuqinglie/.gradle/caches/transforms-3/149f4bc1e2afcab9aefd50954d043b6d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/d82f4a340846390ce6ca8af6fdf4c100/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/8b3378c97b86d8ae0db4fad474aa5fd1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/0c7163990a5e6cce65aeae2885ea78c1/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/wuqinglie/.gradle/caches/transforms-3/ab20f73df86a03ceac49d9fa8d09389d/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/wuqinglie/.gradle/caches/transforms-3/8a0a0fdb2d124eecc096903d904ec813/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] /Users/wuqinglie/.gradle/caches/transforms-3/2d226309daf67b28addcb236bec21c13/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/bf0e1eeacf96bd6d362d20ae682bca7f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/wuqinglie/.gradle/caches/transforms-3/d97c490788221d1725106fc95ef1f777/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/wuqinglie/.gradle/caches/transforms-3/38733700e17f78b528a004724d70c805/transformed/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/wuqinglie/.gradle/caches/transforms-3/4a80bb681d90884161ff2cc90c0204ae/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/8fca7b365ec04c2865eec29e840a541b/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/wuqinglie/.gradle/caches/transforms-3/ea5d8c908999d95d5ab336d0c29bc888/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/wuqinglie/.gradle/caches/transforms-3/b226c0b32f94ec64fbe3050b9d2527e9/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/ff49a14826006f6d324f13f20e2b1105/transformed/startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/95c60e4f2e42dcb90fc5c6c67f20b232/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/569a56d818b07f10084bf37fba3d0680/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/wuqinglie/.gradle/caches/transforms-3/4086822b127352e298285a931ddf98bd/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/wuqinglie/.gradle/caches/transforms-3/61dd4b248c643cf79638f6f1e89eb236/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/wuqinglie/.gradle/caches/transforms-3/c00c19dc7f26544fcbb0aa5e87b69eb7/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/2dce64da5e3913d12bdb313150ad3867/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/17797cd47344b2aa4468863441cec75e/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/dbf5190c68294bf8bedb0a0697ee09a5/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/6aabd803a2023472b92d62e09d1c7e12/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/wuqinglie/.gradle/caches/transforms-3/68b3888df6477d0da662d012ebde1886/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		INJECTED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:5:5-28:19
+MERGED from [com.google.android.material:material:1.5.0] /Users/wuqinglie/.gradle/caches/transforms-3/d4d8b95219a147a25dc785a18deca569/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] /Users/wuqinglie/.gradle/caches/transforms-3/d4d8b95219a147a25dc785a18deca569/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/wuqinglie/.gradle/caches/transforms-3/eae25c07e3d13f439144d1aff810afd5/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/wuqinglie/.gradle/caches/transforms-3/eae25c07e3d13f439144d1aff810afd5/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/c2c9d685a6ff68a57adb1239d339362d/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/c2c9d685a6ff68a57adb1239d339362d/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /Users/wuqinglie/.gradle/caches/transforms-3/2d226309daf67b28addcb236bec21c13/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/wuqinglie/.gradle/caches/transforms-3/2d226309daf67b28addcb236bec21c13/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/wuqinglie/.gradle/caches/transforms-3/ea5d8c908999d95d5ab336d0c29bc888/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/wuqinglie/.gradle/caches/transforms-3/ea5d8c908999d95d5ab336d0c29bc888/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/wuqinglie/.gradle/caches/transforms-3/b226c0b32f94ec64fbe3050b9d2527e9/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/wuqinglie/.gradle/caches/transforms-3/b226c0b32f94ec64fbe3050b9d2527e9/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/ff49a14826006f6d324f13f20e2b1105/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/ff49a14826006f6d324f13f20e2b1105/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/wuqinglie/.gradle/caches/transforms-3/2d226309daf67b28addcb236bec21c13/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:11:9-54
+	tools:targetApi
+		ADDED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:13:9-44
+	android:dataExtractionRules
+		ADDED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:7:9-65
+activity#com.erkuai.mytest.MainActivity
+ADDED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:15:9-27:20
+	android:exported
+		ADDED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:21:27-74
+meta-data#android.app.lib_name
+ADDED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:24:13-26:36
+	android:value
+		ADDED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:26:17-33
+	android:name
+		ADDED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml:25:17-52
+uses-sdk
+INJECTED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/wuqinglie/.gradle/caches/transforms-3/92c50372c3eae18abcdb00a73dbca5db/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/wuqinglie/.gradle/caches/transforms-3/92c50372c3eae18abcdb00a73dbca5db/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.5.0] /Users/wuqinglie/.gradle/caches/transforms-3/d4d8b95219a147a25dc785a18deca569/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] /Users/wuqinglie/.gradle/caches/transforms-3/d4d8b95219a147a25dc785a18deca569/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/wuqinglie/.gradle/caches/transforms-3/eae25c07e3d13f439144d1aff810afd5/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/wuqinglie/.gradle/caches/transforms-3/eae25c07e3d13f439144d1aff810afd5/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/wuqinglie/.gradle/caches/transforms-3/4045a86638aaec384657086060986a71/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/wuqinglie/.gradle/caches/transforms-3/4045a86638aaec384657086060986a71/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/4b08207ca8df5f99cbaf7f1c54e6aab0/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/4b08207ca8df5f99cbaf7f1c54e6aab0/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/wuqinglie/.gradle/caches/transforms-3/78187c6f9e5863052657c9281f90e89d/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/wuqinglie/.gradle/caches/transforms-3/78187c6f9e5863052657c9281f90e89d/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/wuqinglie/.gradle/caches/transforms-3/cfbee81b8bccecf4ef52ee115b4e7b09/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/wuqinglie/.gradle/caches/transforms-3/cfbee81b8bccecf4ef52ee115b4e7b09/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/wuqinglie/.gradle/caches/transforms-3/3d339fbe1e33da61bbb6cfbf32f95ee6/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/wuqinglie/.gradle/caches/transforms-3/3d339fbe1e33da61bbb6cfbf32f95ee6/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/ff8403a2f736d701f1c9437b5a402e32/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/ff8403a2f736d701f1c9437b5a402e32/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/c2c9d685a6ff68a57adb1239d339362d/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/c2c9d685a6ff68a57adb1239d339362d/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/wuqinglie/.gradle/caches/transforms-3/5df575c9a80f847105a23d71edbe3e98/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/wuqinglie/.gradle/caches/transforms-3/5df575c9a80f847105a23d71edbe3e98/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/wuqinglie/.gradle/caches/transforms-3/2d2568dc35e10f213b8edf2d42660223/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/wuqinglie/.gradle/caches/transforms-3/2d2568dc35e10f213b8edf2d42660223/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/88212c3384ca43ef98e9f8ec9e59bc86/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/88212c3384ca43ef98e9f8ec9e59bc86/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/wuqinglie/.gradle/caches/transforms-3/e0dc6fbfab1cf56f78d58a653725c3f9/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/wuqinglie/.gradle/caches/transforms-3/e0dc6fbfab1cf56f78d58a653725c3f9/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/wuqinglie/.gradle/caches/transforms-3/aa301d9b3d9d57da55a25b5eaa4c0b78/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/wuqinglie/.gradle/caches/transforms-3/aa301d9b3d9d57da55a25b5eaa4c0b78/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/wuqinglie/.gradle/caches/transforms-3/149f4bc1e2afcab9aefd50954d043b6d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/wuqinglie/.gradle/caches/transforms-3/149f4bc1e2afcab9aefd50954d043b6d/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/d82f4a340846390ce6ca8af6fdf4c100/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/d82f4a340846390ce6ca8af6fdf4c100/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/8b3378c97b86d8ae0db4fad474aa5fd1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/8b3378c97b86d8ae0db4fad474aa5fd1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/0c7163990a5e6cce65aeae2885ea78c1/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/0c7163990a5e6cce65aeae2885ea78c1/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/wuqinglie/.gradle/caches/transforms-3/ab20f73df86a03ceac49d9fa8d09389d/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/wuqinglie/.gradle/caches/transforms-3/ab20f73df86a03ceac49d9fa8d09389d/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/wuqinglie/.gradle/caches/transforms-3/8a0a0fdb2d124eecc096903d904ec813/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/wuqinglie/.gradle/caches/transforms-3/8a0a0fdb2d124eecc096903d904ec813/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/wuqinglie/.gradle/caches/transforms-3/2d226309daf67b28addcb236bec21c13/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/wuqinglie/.gradle/caches/transforms-3/2d226309daf67b28addcb236bec21c13/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/bf0e1eeacf96bd6d362d20ae682bca7f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/bf0e1eeacf96bd6d362d20ae682bca7f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/wuqinglie/.gradle/caches/transforms-3/d97c490788221d1725106fc95ef1f777/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/wuqinglie/.gradle/caches/transforms-3/d97c490788221d1725106fc95ef1f777/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/wuqinglie/.gradle/caches/transforms-3/38733700e17f78b528a004724d70c805/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/wuqinglie/.gradle/caches/transforms-3/38733700e17f78b528a004724d70c805/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/wuqinglie/.gradle/caches/transforms-3/4a80bb681d90884161ff2cc90c0204ae/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/wuqinglie/.gradle/caches/transforms-3/4a80bb681d90884161ff2cc90c0204ae/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/8fca7b365ec04c2865eec29e840a541b/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/8fca7b365ec04c2865eec29e840a541b/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/wuqinglie/.gradle/caches/transforms-3/ea5d8c908999d95d5ab336d0c29bc888/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/wuqinglie/.gradle/caches/transforms-3/ea5d8c908999d95d5ab336d0c29bc888/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/wuqinglie/.gradle/caches/transforms-3/b226c0b32f94ec64fbe3050b9d2527e9/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/wuqinglie/.gradle/caches/transforms-3/b226c0b32f94ec64fbe3050b9d2527e9/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/ff49a14826006f6d324f13f20e2b1105/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/ff49a14826006f6d324f13f20e2b1105/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/95c60e4f2e42dcb90fc5c6c67f20b232/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/95c60e4f2e42dcb90fc5c6c67f20b232/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/569a56d818b07f10084bf37fba3d0680/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/569a56d818b07f10084bf37fba3d0680/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/wuqinglie/.gradle/caches/transforms-3/4086822b127352e298285a931ddf98bd/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/wuqinglie/.gradle/caches/transforms-3/4086822b127352e298285a931ddf98bd/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/wuqinglie/.gradle/caches/transforms-3/61dd4b248c643cf79638f6f1e89eb236/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/wuqinglie/.gradle/caches/transforms-3/61dd4b248c643cf79638f6f1e89eb236/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/wuqinglie/.gradle/caches/transforms-3/c00c19dc7f26544fcbb0aa5e87b69eb7/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/wuqinglie/.gradle/caches/transforms-3/c00c19dc7f26544fcbb0aa5e87b69eb7/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/2dce64da5e3913d12bdb313150ad3867/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/2dce64da5e3913d12bdb313150ad3867/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/17797cd47344b2aa4468863441cec75e/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/17797cd47344b2aa4468863441cec75e/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/dbf5190c68294bf8bedb0a0697ee09a5/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/dbf5190c68294bf8bedb0a0697ee09a5/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/6aabd803a2023472b92d62e09d1c7e12/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/6aabd803a2023472b92d62e09d1c7e12/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/wuqinglie/.gradle/caches/transforms-3/68b3888df6477d0da662d012ebde1886/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/wuqinglie/.gradle/caches/transforms-3/68b3888df6477d0da662d012ebde1886/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wuqinglie/AndroidStudioProjects/MyTest/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/c2c9d685a6ff68a57adb1239d339362d/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/wuqinglie/.gradle/caches/transforms-3/b226c0b32f94ec64fbe3050b9d2527e9/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/wuqinglie/.gradle/caches/transforms-3/b226c0b32f94ec64fbe3050b9d2527e9/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/ff49a14826006f6d324f13f20e2b1105/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/ff49a14826006f6d324f13f20e2b1105/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/c2c9d685a6ff68a57adb1239d339362d/transformed/emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/c2c9d685a6ff68a57adb1239d339362d/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/c2c9d685a6ff68a57adb1239d339362d/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/c2c9d685a6ff68a57adb1239d339362d/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/c2c9d685a6ff68a57adb1239d339362d/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/c2c9d685a6ff68a57adb1239d339362d/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/wuqinglie/.gradle/caches/transforms-3/c2c9d685a6ff68a57adb1239d339362d/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/wuqinglie/.gradle/caches/transforms-3/b226c0b32f94ec64fbe3050b9d2527e9/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/wuqinglie/.gradle/caches/transforms-3/b226c0b32f94ec64fbe3050b9d2527e9/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/wuqinglie/.gradle/caches/transforms-3/b226c0b32f94ec64fbe3050b9d2527e9/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
