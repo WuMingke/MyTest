@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
 //        val adapter = MyAdapter()
 //        adapter.notifyItemMoved()
 
-//        test()
+        test()
     }
 
 
